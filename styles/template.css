@@ -1,0 +1,16 @@
+.main {
+    border: 2px solid #81C784;
+    margin: 16px auto;
+    display:block;
+    width: 600px;
+    height: fit-content;
+}
+body{
+    padding: 20px;
+}
+ul li {
+    list-style-type:circle;
+}
+ul,ol {
+    padding: 20px;
+}
