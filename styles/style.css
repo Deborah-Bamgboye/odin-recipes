@@ -1,6 +1,7 @@
 h1 , h2 , h3{
-    margin: 16px auto;
+    margin: 16px;
     text-align: center;
+    padding : 10px;
 }
 *{
     padding: 0px;
