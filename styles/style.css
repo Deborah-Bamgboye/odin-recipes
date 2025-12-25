@@ -1,6 +1,10 @@
-h1{
+h1 , h2 , h3{
     margin: 16px auto;
     text-align: center;
+}
+*{
+    padding: 0px;
+    margin: 0px;
 }
 html{
     box-sizing: border-box;
@@ -32,6 +36,8 @@ li {
 .navigation a:hover{
     color:#81C784;
     transition: 300ms;
+    transition-property: all;
+    text-decoration: underline;
 }
 
 
